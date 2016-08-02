@@ -43,7 +43,7 @@ new const bool:gbWeaponEnabled[][] =
     // Nova,         XM1014,            Sawed-Off,     MAG-7,      M249,          Negev          -                   -        -         -            -      
     {  true,         true,              true,          true,       true,          true,          false,              false,   false,    false,       false },
     
-    // Desert Eagle, Glock-18,          P250,    CZ75-A      Five-SeveN, Dual Berettas, Tec-9,         P2000               -        -         -            -   
+    // Desert Eagle, Glock-18,          P250,    CZ75-A      Five-SeveN, Dual Berettas, Tec-9,         P2000               USP-S,               REVOLVER         -            -   
     {  true,         true,              true,     true,     true,       true,          true,          true,   true, true,    false,       false },
     
     // Kevlar,       Kevlar and Helmet, Decoy Grenade, Flashbang,  HE Grenade,    Smoke Grenade, Incendiary Grenade, Molotov, Zeus x27, Defusal Kit, C4
