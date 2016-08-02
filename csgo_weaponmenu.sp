@@ -78,10 +78,10 @@ new giClientCurrentType[MAXPLAYERS + 1];
 public Plugin:myinfo = 
 {
     name = "CSGO Admin Weapon Menu",
-    author = "Glefs",
+    author = "Glefs/erikxcore", //Modified by erikxcore for latest CSGO version, newer weapons, improved handling
     description = "Easy to use and modify weapon menu for server admins",
     version = PLUGIN_VERSION,
-    url = "https://forums.alliedmods.net/showthread.php?p=1820521"
+    url = "https://forums.alliedmods.net/showthread.php?p=1820521" //Original post deleted
 };
 
 public OnPluginStart()
